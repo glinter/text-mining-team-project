@@ -19,3 +19,6 @@
 `preprocessing-data` 폴더 하위의 `preprocessing-data.csv` 파일
 ### 수행한 일
 - NMF 적용 시도
+
+## data-analysis-profile.html
+데이터 분석 결과 파일
